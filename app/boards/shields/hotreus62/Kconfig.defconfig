@@ -1,0 +1,12 @@
+if SHIELD_HOTREUS62
+
+config ZMK_KEYBOARD_NAME
+    default "Hotreus62"
+
+config ZMK_BLE
+    default y
+
+config ZMK_USB
+    default y
+
+endif
