@@ -108,7 +108,7 @@
                 &mt LGUI TAB   &kp Z  &kp X    &kp C     &kp V      &kp B                               &kp N      &kp M         &kp COMMA &kp DOT   &kp FSLH  &kp SQT
                                                          &kp LCTRL  &mo RAISE &kp SPACE &mt RSHFT ENTER &mo LOWER  &kp BACKSPACE 
                 >;  
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp LEFT RIGHT>;
+            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp RIGHT LEFT>;
         };
 
         raise {
